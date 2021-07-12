@@ -40,8 +40,8 @@ public class Class1day6 {
 		System.out.println("Output : "+output);
 		
 		//Github 사용하기
-		//Do
-		
+		//Code 추가
+		//새로운 코드가 추가
 	}
 	
 	
